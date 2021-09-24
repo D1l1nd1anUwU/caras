@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="i}g+(hL3nx=EzWnxx)Fa">esta lloviendo</variable><variable id="4GlOcT:N1t?%=*R9tW%T">estoy enferma</variable><variable id="$_{eyY0NsRZ|3*Y6M0F#">tengo agua</variable><variable id=":Hm.k/xU}b7I_^/mQ]!y">no tengo sol ni agua</variable><variable id="T*`dm1w7GvZ8IJ*e1Mg1">no melestes</variable></variables><block type="function_definition" id="r@893Bpcj+!LxwUMqxw," x="0" y="0"><mutation name="sonrojado" functionid="-K,u+z5,;c610^Vr/K8Z"/><field name="function_name">sonrojado</field><statement name="STACK"><block type="device_show_leds" id="z_S(iV(z!9}52?-P%)MD"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        # . # . # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="variables_set" id="]2wf%MfM;)Z}OY-U90o5"><field name="VAR" id="4GlOcT:N1t?%=*R9tW%T">estoy enferma</field><value name="VALUE"><shadow type="math_number" id="US}!dLwz[S@6G+R%pG]4"><field name="NUM">1</field></shadow></value></block></next></block></statement></block><block type="function_definition" id="T;]eN2{sUIIfg|0x#^iI" x="-255" y="60"><mutation name="triste" functionid="5@27m2%!r#9M^@YG[3#["/><field name="function_name">triste</field><statement name="STACK"><block type="device_show_leds" id="UnWP9Hv!a5DLOf8RfUuM"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        # # # # # 
+        # . . . # 
+        . . . . .
+        `</field><next><block type="variables_set" id="~_zH7p-ZY0gfn#W~m(|)"><field name="VAR" id="i}g+(hL3nx=EzWnxx)Fa">esta lloviendo</field><value name="VALUE"><shadow type="math_number" id="n!y?iPp[95lK[2K5n~#c"><field name="NUM">1</field></shadow></value></block></next></block></statement></block><block type="function_definition" id="aIG[lG~u_Ym4g_9lx%OT" x="578" y="164"><mutation name="sed y hambre" functionid="~U1Ps9xZlo^S-YO_T[##"/><field name="function_name">sed y hambre</field><statement name="STACK"><block type="device_show_leds" id="dbU$:{nX5~whN~6L77#O"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        . . . . . 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="variables_set" id="r%d`=5h)4f%nl|C5CmQM"><field name="VAR" id=":Hm.k/xU}b7I_^/mQ]!y">no tengo sol ni agua</field><value name="VALUE"><shadow type="math_number" id=":_@:u$d-9lH-UcfOGY|_"><field name="NUM">1</field></shadow></value></block></next></block></statement></block><block type="function_definition" id="E|y3rsO.#F{n=tsw_s5)" x="413" y="182"><mutation name="enojado" functionid="jSr@q%#^b]c}N{M#Dm#P"/><field name="function_name">enojado</field><statement name="STACK"><block type="device_show_leds" id="kXj-1Og5WPkGp033:Cb,"><field name="LEDS">`
+        . . . . . 
+        # # . # # 
+        . # . # . 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="variables_set" id="h;CZ|P`Q*aF,kb++Vct2"><field name="VAR" id="T*`dm1w7GvZ8IJ*e1Mg1">no melestes</field><value name="VALUE"><shadow type="math_number" id="aP2^fQW$3N!l(%o}`!8A"><field name="NUM">0</field></shadow></value></block></next></block></statement></block><block type="function_definition" id="#^paBAOyc;=$#:(%cf1o" x="221" y="381"><mutation name="feliz" functionid="u~mO8Y%Iqy:TYV:OD^a`"/><field name="function_name">feliz</field><statement name="STACK"><block type="device_show_leds" id=",]p$q62m5S!JYH~v!j~p"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        # . . . # 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="variables_set" id="3^QS|R#tv=?c_mj5UHTh"><field name="VAR" id="$_{eyY0NsRZ|3*Y6M0F#">tengo agua</field><value name="VALUE"><shadow type="math_number" id="og3ErI_L3;!#?L(u#}HB"><field name="NUM">0</field></shadow></value></block></next></block></statement></block></xml>
